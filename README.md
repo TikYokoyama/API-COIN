@@ -1,3 +1,4 @@
 # API-Coin
 
-npm run dev to work
+//TO WORK
+"npm run dev"
